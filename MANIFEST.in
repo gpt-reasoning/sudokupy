@@ -3,7 +3,7 @@ include README.md
 include LICENSE
 
 # Include the data files
-recursive-include SudokuPy/data *.gz
+recursive-include sudokupy/data *.gz
 
 # Include C source files
 recursive-include c_code *.c

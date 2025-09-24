@@ -1,5 +1,5 @@
-from SudokuPy.python_code.sudoku import board_generate, encode
-from SudokuPy.python_code.solver import solve_logic, puzzle_generate
+from sudokupy.python_code.sudoku import board_generate, encode
+from sudokupy.python_code.solver import solve_logic, puzzle_generate
 
 def test_board_generation():
     print("Testing board generation...")

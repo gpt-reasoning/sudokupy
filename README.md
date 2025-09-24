@@ -23,7 +23,7 @@ Many machine learning studies rely on pre-existing datasets, however in combinat
 Install *SudokuPy* via pip:
 
 ```bash
-pip install SudokuPy
+pip install sudokupy
 ```
 
 ## Citation

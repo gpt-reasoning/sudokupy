@@ -3,7 +3,7 @@ import numpy as np
 from itertools import permutations
 from gdown import download
 
-filename = "SudokuPy/data/sudoku_processed.csv.gz"
+filename = "sudokupy/data/sudoku_processed.csv.gz"
 if not os.path.exists(filename):
     download(id="1eGvm9b6bd2LaqSnQ7eUol5V8tt59M2_6", output=filename, quiet=False)
 

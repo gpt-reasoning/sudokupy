@@ -1,6 +1,6 @@
 import numpy as np
-from SudokuPy.python_code.puzzle_generator import board_decode
-from SudokuPy.python_code.puzzle_solver import puzzle_generate
+from sudokupy.python_code.puzzle_generator import board_decode
+from sudokupy.python_code.puzzle_solver import puzzle_generate
 
 def sudokupy_gen(k):
     """

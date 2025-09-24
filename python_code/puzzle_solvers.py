@@ -22,7 +22,7 @@ if not compiler_available(compiler):
     raise RuntimeError(f"Compiler '{compiler}' not found! Install GCC (Linux), MinGW (Windows), or Clang (macOS).")
 
 # Define paths to C code and shared library location
-c_code_path = os.path.join("SudokuPy", "c_code")
+c_code_path = os.path.join("sudokupy", "c_code")
 lib_path = os.path.join(c_code_path, f"libsolver{lib_ext}")
 
 # Compile C code into a shared library if not already compiled
