@@ -1,0 +1,12 @@
+# Include the README and LICENSE files
+include README.md
+include LICENSE
+
+# Include the data files
+recursive-include SudokuPy/data *.gz
+
+# Include C source files
+recursive-include c_code *.c
+
+# Include all Python source files in your package
+recursive-include python_code *.py
