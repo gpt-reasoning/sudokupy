@@ -3,7 +3,7 @@ from Cython.Build import cythonize
 import numpy
 
 setup(
-    name='SudokuPy',
+    name='sudokupy',
     version='0.0.1',
     description='A Sudoku library',
     author='Your Name',
