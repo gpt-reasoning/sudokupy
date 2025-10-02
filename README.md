@@ -27,6 +27,7 @@ Until then, you can install it directly from GitHub:
 ```bash
 pip install git+https://github.com/gpt-reasoning/sudokupy.git
 
+
 ## Citation
 This work was part of the NeurIPS'25 paper *Teaching Transformers to Solve Combinatorial Problems through Efficient Trial \& Error* (see the [repository](https://github.com/yorgospantis/ReasoningCombinatorials)). 
 If you use this work, please cite it as follows:
