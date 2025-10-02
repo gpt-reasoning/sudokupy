@@ -19,12 +19,13 @@
 ## Overview
 Many machine learning studies rely on pre-existing datasets, however in combinatorial problems like Sudoku, efficiently generating truly random puzzles is crucial. *SudokuPy* addresses this by providing a fast Python-based generator (written in C) that systematically constructs valid Sudoku boards while ensuring uniqueness. This dual-language implementation ensures fast Sudoku generation making it ideal for large-scale dataset creation and AI live-streaming training. 
 
-## Installation
-Install *SudokuPy* via pip:
+## Installation  
+
+*SudokuPy* will be available on PyPI soon.  
+Until then, you can install it directly from GitHub:  
 
 ```bash
-pip install sudokupy
-```
+pip install git+https://github.com/gpt-reasoning/sudokupy.git
 
 ## Citation
 This work was part of the NeurIPS'25 paper *Teaching Transformers to Solve Combinatorial Problems through Efficient Trial \& Error* (see the [repository](https://github.com/yorgospantis/ReasoningCombinatorials)). 
