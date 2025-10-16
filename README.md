@@ -21,8 +21,7 @@ Many machine learning studies rely on pre-existing datasets, however in combinat
 
 ## Installation  
 
-*SudokuPy* will be available on PyPI soon.  
-Until then, you can install it directly from GitHub:  
+*SudokuPy* will be available on PyPI soon. Until then, you can install it directly from GitHub:  
 
 ```bash
 pip install git+https://github.com/gpt-reasoning/sudokupy.git
