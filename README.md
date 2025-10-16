@@ -52,7 +52,7 @@ SudokuPy/
 ├── c_code/
 │   ├── jczsolver.c                 # C code to check unique solvability
 │   ├── libsolver.so                # Shared library (Linux/macOS)
-│   ├── libsolver.dll               # Shared library (Windows)
+│   └── libsolver.dll               # Shared library (Windows)
 │
 ├── example/
 │   └── example.ipynb               # Usage examples
