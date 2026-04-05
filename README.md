@@ -21,14 +21,14 @@ Many machine learning studies rely on pre-existing datasets, however in combinat
 
 ## Installation  
 
-*SudokuPy* will be available on PyPI soon. Until then, you can install it directly from GitHub:  
+You can install *SudokuPy* directly from GitHub:  
 
 ```bash
 pip install git+https://github.com/gpt-reasoning/sudokupy.git
 ```
 
 ## Citation
-This work was part of the NeurIPS'25 paper *Teaching Transformers to Solve Combinatorial Problems through Efficient Trial \& Error* (see the [repository](https://github.com/yorgospantis/ReasoningCombinatorials)). 
+This work was part of the NeurIPS'25 paper *Teaching Transformers to Solve Combinatorial Problems through Efficient Trial \& Error* (see the [repository](https://github.com/gpt-reasoning/ReasoningCombinatorials)). 
 If you use this work, please cite it as follows:
 ```bibtex
 @inproceedings{giannoulis2025teaching, 
