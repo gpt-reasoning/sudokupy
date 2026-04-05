@@ -7,7 +7,7 @@
 <sup>2</sup>National and Kapodistrian University of Athens, Greece<br>
 <sup>3</sup>Archimedes, Athena Research Center, Athens, Greece<br>
 
-[![Paper](https://img.shields.io/badge/NeurIPS-2025-red?logo=book&logoColor=white)](https://arxiv.org/pdf/2509.22023)
+[![Paper](https://img.shields.io/badge/NeurIPS-2025-red?logo=book&logoColor=white)](https://neurips.cc/virtual/2025/loc/san-diego/poster/118478)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 </div>
