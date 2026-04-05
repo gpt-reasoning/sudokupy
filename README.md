@@ -17,8 +17,7 @@
 </div>
 
 ## Overview
-Many machine learning studies rely on pre-existing datasets, however in combinatorial problems like Sudoku, efficiently generating truly random puzzles is crucial. *SudokuPy* addresses this by providing a fast Python-based generator (written in C) that systematically constructs valid Sudoku boards while ensuring uniqueness. This dual-language implementation ensures fast Sudoku generation making it ideal for large-scale dataset creation and AI live-streaming training. 
-
+Many machine learning studies rely on pre-existing datasets, however in combinatorial problems like Sudoku, efficiently generating truly random puzzles is crucial. *SudokuPy* addresses this by providing a fast Python-based generator (written in C) that systematically constructs valid Sudoku boards while ensuring uniqueness. This dual-language implementation ensures fast Sudoku generation making it ideal for large-scale dataset creation and AI live-streaming trai.
 ## Installation  
 
 You can install *SudokuPy* directly from GitHub:  
