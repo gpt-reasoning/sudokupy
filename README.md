@@ -30,11 +30,13 @@ pip install git+https://github.com/gpt-reasoning/sudokupy.git
 This work was part of the NeurIPS'25 paper *Teaching Transformers to Solve Combinatorial Problems through Efficient Trial \& Error* (see the [repository](https://github.com/gpt-reasoning/ReasoningCombinatorials)). 
 If you use this work, please cite it as follows:
 ```bibtex
-@inproceedings{giannoulis2025teaching, 
-  title={Teaching Transformers to Solve Combinatorial Problems through Efficient Trial & Error}, 
-  author={Giannoulis, Panagiotis and Pantis, Yorgos and Tzamos, Christos}, 
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 
-  year={2025}
+@inproceedings{giannoulis2025teaching,
+title={Teaching Transformers to Solve Combinatorial Problems through Efficient Trial \& Error},
+author={Giannoulis, Panagiotis and Pantis, Yorgos and Tzamos, Christos},
+journal={Proceedings of the Thirtyninth Annual Conference on Neural Information Processing Systems},
+volume={38},
+pages={133548--133580},
+year={2025},
 }
 ```
 
